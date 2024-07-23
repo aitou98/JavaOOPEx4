@@ -4,9 +4,9 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		 Account a1 = new Account("A101", "Tan Ah Teck", 88);
+		 Account a1 = new Account("A101", "aitoukallal", 88);
 	      System.out.println(a1);  // toString();
-	      Account a2 = new Account("A102", "Kumar"); // default balance
+	      Account a2 = new Account("A102", "alaoui"); // default balance
 	      System.out.println(a2);
 
 	      // Test Getters
@@ -38,7 +38,7 @@ public class Main {
 
 
 // Test constructor and toString()
-	      Employee e1 = new Employee(8, 2500 ,"Peter", "Tan");
+	      Employee e1 = new Employee(8, 2500 ,"yassine", "aitou");
 	      System.out.println(e1);  // toString();
 
 	      // Test Setters and Getters
